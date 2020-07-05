@@ -40,7 +40,8 @@ class Solution {
 
 }
 ```
-**Runtime Analysis : **
+
+**Runtime Analysis :**
 
 Time complexity: O(n*(2^n))
 
